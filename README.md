@@ -13,3 +13,4 @@ Dylan s'encarrega de la gestió tècnica i audiovisual, principalment perquè el
 
 ## Primera reflexió
 ### Quins problemes ambientals o socials del centre, del barri o de la ciutat us agradaria investigar?
+- La calor al centre 
