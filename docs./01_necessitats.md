@@ -35,9 +35,11 @@ Generació de materials no reciclables perquè afecta a la producció de materia
   
 ### 4. Quines podrien empitjorar en el futur si no s’hi actua?
 De les que hem escollit hi 3 poden empitjorar el futur:
+
 - Generació de materials no reciclables
 - Augment de casos d'obesitat
 - Excés de gasos pel transport individual
+
 Aquest 3 podrien fer malbé el medi ambient i empitjorar la nostra salut
   
 ### 5. Quines dues necessitats podrien convertir-se en el repte principal del vostre projecte?
