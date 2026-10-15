@@ -49,12 +49,12 @@ Aquest 3 podrien fer malbé el medi ambient i empitjorar la nostra salut.
   
 ### 6. Quina informació us falta per poder escollir entre aquestes dues necessitats?
 Dades sobre la situació actual per poder pensar i veure possibles solucions de cada necessitat, com per exemple:
-    - Dades del transport públic com horaris
-    - Llocs per deixar bicicletas, patinetes, etc.
-    - Mapes
-    - Manualitats amb materials reciclables
-    - Que caldria fer per cada necessitat, i que tan complicat es de fer
-    - Etc.
+- Dades del transport públic com horaris
+- Llocs per deixar bicicletas, patinetes, etc.
+- Mapes
+- Manualitats amb materials reciclables
+- Que caldria fer per cada necessitat, i que tan complicat es de fer
+- Etc.
 
 ## 5. Les fonts d’informació consultades:
 Hem fet servir practicament les mateixes noticies que hem donat en la taula del punt 3 com evidencies.
