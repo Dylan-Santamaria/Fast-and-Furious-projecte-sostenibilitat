@@ -40,7 +40,7 @@ De les que hem escollit hi 3 poden empitjorar el futur:
 - Augment de casos d'obesitat
 - Excés de gasos pel transport individual
 
-Aquest 3 podrien fer malbé el medi ambient i empitjorar la nostra salut
+Aquest 3 podrien fer malbé el medi ambient i empitjorar la nostra salut.
   
 ### 5. Quines dues necessitats podrien convertir-se en el repte principal del vostre projecte?
 - Excés de gasos pel transport individual (perquè podem trobar opcions de transports sostenibles per la gent i crear una app per conèixer aquestes opcions).
