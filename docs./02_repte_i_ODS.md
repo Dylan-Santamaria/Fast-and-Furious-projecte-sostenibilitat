@@ -71,5 +71,10 @@ Com podríem ajudar a “la gente de Barcelona” a reduir o millorar “l’exc
 4. Explicació de com el futur projecte podria contribuir-hi. 
 - Al reduir el nombre d'usos del transport privat per consecuencia també es reduirà els gasos expulsats a l’atmosfera com el diòxid de carboni. Reduir l'emissió de gasos d’efecte hivernacle que afecta directament al canvi climàtic.
 
+## Fonts d'informacio:
+- https://www.un.org/sustainabledevelopment/es/sustainable-development-goals/
+- https://www.un.org/sustainabledevelopment/es/cities/
+- https://www.un.org/sustainabledevelopment/es/climate-change-2/
+
 
 
