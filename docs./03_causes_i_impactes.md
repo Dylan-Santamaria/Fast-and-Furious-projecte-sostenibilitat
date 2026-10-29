@@ -8,7 +8,7 @@
 Hem creat un Google Drawings en drive compartit entre nosaltres, on hem dissenyat l'arbre i ho hem fet entre tots. Després el Dylan ho ha passat al GitHub tant l'arbre fet com les idees de les respostes ben escrites.
 
 ## Part 2:
-
+![Imatge arbre de problemes](arbol-sostenibilidad
 
 ## Fonts d'informació:
 - https://es.greenpeace.org/es/trabajamos-en/cambio-climatico/movilidad/
