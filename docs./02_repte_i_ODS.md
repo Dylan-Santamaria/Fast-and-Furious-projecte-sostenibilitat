@@ -1,4 +1,4 @@
-# Actividad pt1.3
+# Actividad pt1.3.
 
 ## Noms i rols:
 - Dylan Santamaria Morales
