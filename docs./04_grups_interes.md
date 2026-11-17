@@ -39,7 +39,7 @@ Hem creat un document de Drive on entre tots ens hem plantejat les preguntes i h
 ![Mapa d'influència i afectació](Matriz%20de%20influencia%20y%20afectación.jpg)
 
 ## 5. Selecció i justificació dels tres grups més rellevants.
-#### 1. L'Ajuntament (Administració Local)
+### 1. L'Ajuntament (Administració Local)
 **1. Com li afecta el problema:** L'excés de trànsit privat provoca congestió viària, degradació de l'espai públic, incompliment dels límits legals de contaminació acústica i atmosfèrica, i un augment en els costos de manteniment de la infraestructura urbana.
 
 **2. Quines necessitats o expectatives té:** Necessita reduir les emissions de CO2 i complir amb els objectius dels Plans de Mobilitat Urbana Sostenible (PMUS) i les Zones de Baixes Emissions (ZBE). Espera disposar de dades reals sobre els fluxos de mobilitat per optimitzar la xarxa de transport públic i els carrils bici.
@@ -50,7 +50,7 @@ Hem creat un document de Drive on entre tots ens hem plantejat les preguntes i h
 
 **5. Com hauria de participar en el projecte:** Com a soci estratègic i proveïdor de dades obertes (Open Data), integrant l'app dins de l'ecosistema de serveis digitals de la ciutat, fent-ne difusió i oferint incentius (com descomptes en abonaments de transport o punts bescanviables en comerços locals).
 
-#### 2. Conductors habituals de transport individual (cotxe o moto privada)
+### 2. Conductors habituals de transport individual (cotxe o moto privada)
 **1. Com li afecta el problema:** Pateixen directament els embussos diaris, la pèrdua de temps en els desplaçaments, la dificultat per trobar aparcament, l'augment del cost del combustible i les restriccions d'accés al centre urbà.
 
 **2. Quines necessitats o expectatives té:** Busquen arribar al seu destí de manera ràpida, còmoda, puntual i econòmica. Esperen que l'aplicació els ofereixi alternatives reals i eficients que no suposin un augment excessiu del temps de viatge ni complicacions logístiques.
@@ -61,7 +61,7 @@ Hem creat un document de Drive on entre tots ens hem plantejat les preguntes i h
 
 **5. Com hauria de participar en el projecte:** Registrant-se com a usuaris de prova (beta testers) per detectar barreres d'ús, responent enquestes sobre les seves rutes habituals i valorant la utilitat de les rutes intermodals proposades per millorar l'algoritme.
 
-#### 3. La ciutadania en general (vianants, ciclistes i usuaris habituals de transport públic)
+### 3. La ciutadania en general (vianants, ciclistes i usuaris habituals de transport públic)
 **1. Com li afecta el problema:** Pateixen les conseqüències negatives del trànsit tot i no generar-lo: mala qualitat de l'aire (problemes respiratoris), soroll constant, inseguretat viària en els desplaçaments a peu o en bicicleta i ocupació de l'espai públic per part dels vehicles.
 
 **2. Quines necessitats o expectatives té:** Desitgen una ciutat més saludable, segura, amable i silenciosa. Esperen que l'aplicació també els sigui útil per descobrir rutes més agradables, segures (carrils bici segregats, zones pacificades) i saludables per moure's per la ciutat.
@@ -73,7 +73,7 @@ Hem creat un document de Drive on entre tots ens hem plantejat les preguntes i h
 **5. Com hauria de participar en el projecte:** Utilitzant l'aplicació per planificar els seus desplaçaments sostenibles, reportant incidències en temps real (estat dels carrils bici, voreres tallades, avaries) i participant en reptes comunitaris de mobilitat verda per fomentar el canvi cultural al municipi.
 
 ## 6. Proposta de dues aliances.
-#### Aliança 1: Ecosistema institucional i xarxa de transport públic
+### Aliança 1: Ecosistema institucional i xarxa de transport públic
 **1. Els grups que hi participarien:** L'empresa tecnològica desenvolupadora de MUV — Mobility Urban Values, l'Ajuntament i els operadors o autoritats del transport públic.
 
 **2. L'objectiu de la col·laboració:** Integrar les dades en temps real de la xarxa de transport públic i la infraestructura urbana dins de l'aplicació per oferir rutes sostenibles precises, a més d'establir un sistema oficial de recompenses per als usuaris.
@@ -91,7 +91,7 @@ Hem creat un document de Drive on entre tots ens hem plantejat les preguntes i h
 
 **6. Com es podria iniciar la col·laboració:** Aprofitant que l'Ajuntament és qui impulsa i finança inicialment el projecte, convocant una mesa tècnica de mobilitat amb els responsables dels operadors de transport per signar un conveni marc de cessió de dades obertes (Open Data) i d'interoperabilitat.
 
-#### Aliança 2: Integració cartogràfica i mobilitat compartida (intermodalitat)
+### Aliança 2: Integració cartogràfica i mobilitat compartida (intermodalitat)
 **1. Els grups que hi participarien:** MUV — Mobility Urban Values, empreses d'aplicacions de mapes (com Google Maps o OpenStreetMap) i aplicacions de transport / mobilitat compartida (com Uber, serveis de carsharing, patinets o bicicletes compartides).
 
 **2. L'objectiu de la col·laboració:** Millorar la precisió cartogràfica de les rutes a peu i en bicicleta, i oferir alternatives combinades (intermodals) per als trajectes on el transport públic tradicional no arriba eficientment, reduint així l'ús del vehicle privat individual.
