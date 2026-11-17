@@ -36,4 +36,5 @@ Hem creat un document de Drive on entre tots ens hem plantejat les preguntes i h
 | Ciutadania en general | Extern | Molta contaminació a l’hora de respirar. | Menys contamina-ció als carrers. | Alta | Alta | Poden fer servir l’App. |
 
 ## 4. Mapa d’influència i afectació.
-![Mapa d’influència i afectació]()
+![Mapa d’influència i afectació](Matriz de influencia y afectación.jpg)
+
