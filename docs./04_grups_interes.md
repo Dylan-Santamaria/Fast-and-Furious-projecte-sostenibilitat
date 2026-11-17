@@ -35,3 +35,5 @@ Hem creat un document de Drive on entre tots ens hem plantejat les preguntes i h
 | Aplicacions de transport com Uber | Intern | Farem servir tecnologia i/o les seves eines. | Diners. | Baixa | Alta | Podem proporcionar les seves App com posible mitja de transport en la nostra. |
 | Ciutadania en general | Extern | Molta contaminació a l’hora de respirar. | Menys contamina-ció als carrers. | Alta | Alta | Poden fer servir l’App. |
 
+## 4. Mapa d’influència i afectació.
+![Mapa d’influència i afectació]()
