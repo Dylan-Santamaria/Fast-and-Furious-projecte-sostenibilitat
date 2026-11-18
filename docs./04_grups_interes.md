@@ -100,7 +100,7 @@ Hem creat un document de Drive on entre tots ens hem plantejat les preguntes i h
 
 - Nosaltres l'equip fundador: La creació de l'App Web. Una base d'usuaris locals interessats en la mobilitat sostenible i dades agregades sobre els punts d'origen i destí més freqüents a la ciutat
   
-- MUV — Mobility Urban Values: Van desenvolupar una App similar a la que volem nosaltres. Ens poden ayudar en el desenvolupament de la nostra i ens podem unir per fer entre els dos una App millor.
+- MUV — Mobility Urban Values: Van desenvolupar una App similar a la que volem nosaltres. Ens poden ajudar en el desenvolupament de la nostra i ens podem unir per fer entre els dos una App millor.
 
 - Empreses d'aplicacions de mapes: La infraestructura cartogràfica base, la geolocalització precisa, la detecció del trànsit en temps real i la identificació de vies segures (carrils bici, zones de vianants).
 
