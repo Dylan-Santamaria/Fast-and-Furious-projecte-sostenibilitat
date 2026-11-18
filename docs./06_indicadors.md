@@ -54,8 +54,8 @@ L'equip desenvolupador de l'aplicació (per revisar i filtrar la base de dades i
 
 ## 6. Fonts consultades.
 - https://www.globalreporting.org/standards/
-- https://www.efrag.org/en/sustainability-reporting/esrs-workstreams
+- https://www.efrag.org/en/sustainability-reporting
 - https://www.iso.org/standards/popular/iso-14000-family
-- https://www.iso.org/iso-26000-social-responsibility.html
+- https://www.iso.org/iso-26000-social-responsibility.html  
 - https://www.miteco.gob.es/es/cambio-climatico/temas/mitigacion-politicas-y-medidas/calculadoras.html
 - https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX%3A32016R0679
