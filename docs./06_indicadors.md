@@ -13,6 +13,24 @@
 
 ## 3. Respostes a les preguntes de revisió dels indicadors.
 
+### 1. Els indicadors mesuren resultats relacionats amb el repte i els ODS seleccionats?
+Sí. Els indicadors estan totalment alineats amb el repte principal (reduir l'excés de gasos contaminants del transport individual a Barcelona), amb l'ODS 11 (ciutats sostenibles i millora de la qualitat de l'aire, meta 11.6) i amb l'ODS 13 (acció pel clima i reducció d'emissions de $CO_2$, meta 13.3). No mesuren merament el funcionament tècnic de l'app, sinó el canvi real en els desplaçaments de la ciutadania.
+
+### 2. Seria possible obtenir les dades sense recollir informació personal innecessària?
+Sí, complint rigorosament amb el Reglament General de Protecció de Dades (RGPD) tal com vam definir a l'anàlisi ASG. Les dades de quilòmetres recorreguts, rutes i estalvi d'emissions es recullen de forma agregada i anonimitzada, sense vincular l'historial amb dades personals identificables (com nom o domicili). A més, les dades brutes de geolocalització s'esborren automàticament cada 30 dies.
+
+### 3. Els indicadors permeten comprovar el canvi respecte de la situació inicial?
+Sí. En fixar una situació inicial o línia base abans de començar la prova pilot (mitjançant enquestes d'hàbits previs, zero acords formalitzats i zero emissions evitades), en finalitzar els tres mesos es pot calcular objectivament la variació percentual i l'evolució real de l'ús del transport sostenible.
+
+### 4. Hi ha algun resultat important del projecte que els indicadors no recullin?
+Sí, hi ha aspectes que queden fora d'aquests tres indicadors:
+- L'efecte indirecte de sensibilització sobre persones o entorns familiars que canvien d'hàbits gràcies a l'aplicació però no la porten instal·lada directament.
+- La millora real de la qualitat de l'aire mesurada als carrers de Barcelona, ja que l'app calcula el $CO_2$ estalviat de forma teòrica segons els registres, però la contaminació atmosfèrica global depèn de múltiples factors externs (meteorologia, trànsit pesat o activitat industrial).
+- L'impacte sobre els col·lectius afectats per la bretxa digital o amb mobilitat reduïda (la inclusió d'accessibilitat o de targetes físiques municipals requeriria indicadors propis addicionals).
+
+### 5. Podríeu explicar honestament els resultats encara que no assolíssiu el valor objectiu?
+Sí. En cas de no assolir els objectius fixats (per exemple, quedar-nos per sota del 60 % de trajectes sostenibles o dels 1.500 kg de $CO_2$ estalviats), els resultats es comunicaran de manera totalment transparent, detallant les causes reals (com limitacions en la mostra d'usuaris durant la fase pilot o incidències tècniques) i plantejant les accions correctores necessàries per a la següent versió.
+
 ## 4. Model breu de comunicació dels resultats.
 
 ## 5. Taula sobre GRI, ESRS, ISO 14001 i ISO 26000.
