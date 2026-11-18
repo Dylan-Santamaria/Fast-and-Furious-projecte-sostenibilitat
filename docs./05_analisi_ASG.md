@@ -71,10 +71,15 @@
 
 ## 6. Canvis que s’introduiran en el projecte després de l’anàlisi.
 Després de fer l'anàlisi ASG, introduirem les següents millores en el disseny inicial del projecte perquè sigui més sostenible, inclusiu i responsable:
+
 **1. Accessibilitat universal des de la versió 1.0:** Incorporar lectura de pantalla per a persones amb discapacitat visual, interfícies d'alt contrast i un filtre específic per recomanar rutes 100 % accessibles (sense escales ni voreres estretes) per a persones amb mobilitat reduïda.
+
 **2. Inclusió contra la bretxa digital:** Crear una targeta física vinculada al carnet municipal o biblioteca per a la gent gran o persones sense telèfon intel·ligent, permetent-los acumular punts sostenibles en validar el transport públic o comprar al comerç local.
+
 **3. Auditoria independent i transparència algorítmica:** Publicar obertament la metodologia científica utilitzada per calcular l'estalvi de $CO_2$ i encarregar a una universitat o entitat ambiental externa la verificació anual dels informes.
+
 **4. Protocol de seguretat viària i responsabilitat clara:** Definir legalment que l'empresa tecnològica i l'Ajuntament corresponen a la gestió de dades i la seguretat de les rutes, afegint un botó d'avís ciutadà dins l'app per reportar carrers insegurs, mal il·luminats o en obres en temps real.
+
 **5. Model de patrocini ètic:** Establir que els comerços patrocinadors només rebran informes estadístics generals per barris (mai dades personals) i prioritzar l'adhesió de comerços locals sostenibles (mercats municipals, botigues de proximitat, tallers de bicicletes).
 
 ## 7. Les fonts d’informació consultades.
