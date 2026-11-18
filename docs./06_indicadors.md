@@ -36,3 +36,9 @@ Sí. En cas de no assolir els objectius fixats (per exemple, quedar-nos per sota
 ## 5. Taula sobre GRI, ESRS, ISO 14001 i ISO 26000.
 
 ## 6. Fonts consultades.
+- https://www.globalreporting.org/standards/
+- https://www.efrag.org/en/sustainability-reporting/esrs-workstreams
+- https://www.iso.org/standards/popular/iso-14000-family
+- https://www.iso.org/iso-26000-social-responsibility.html
+- https://www.miteco.gob.es/es/cambio-climatico/temas/mitigacion-politicas-y-medidas/calculadoras.html
+- https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX%3A32016R0679
