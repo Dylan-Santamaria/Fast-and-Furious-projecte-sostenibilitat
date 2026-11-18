@@ -74,12 +74,12 @@ Hem creat un document de Drive on entre tots ens hem plantejat les preguntes i h
 
 ## 6. Proposta de dues aliances.
 ### Aliança 1: Ecosistema institucional i xarxa de transport públic
-**1. Els grups que hi participarien:** L'empresa tecnològica desenvolupadora de MUV — Mobility Urban Values, l'Ajuntament i els operadors o autoritats del transport públic.
+**1. Els grups que hi participarien:** Nosaltres l'equip fundador, l'Ajuntament i els operadors o autoritats del transport públic.
 
 **2. L'objectiu de la col·laboració:** Integrar les dades en temps real de la xarxa de transport públic i la infraestructura urbana dins de l'aplicació per oferir rutes sostenibles precises, a més d'establir un sistema oficial de recompenses per als usuaris.
 
 **3. Què aportaria cada participant:**
-- MUV — Mobility Urban Values (empresa tecnològica): La plataforma mòbil, l'algoritme de càlcul de rutes i emissions, i les estadístiques anonimitzades sobre els hàbits de mobilitat de la ciutadania.
+- Nosaltres l'equip fundador: La creació de l'App Web, poder donar dades anonimes i general al Ajuntament i Operadors per millorar rutes.
 
 - L'Ajuntament: El finançament inicial, la difusió institucional, la gestió dels descomptes en equipaments municipals i la validació de les dades d'impacte ambiental.
 
@@ -89,16 +89,18 @@ Hem creat un document de Drive on entre tots ens hem plantejat les preguntes i h
 
 **5. Quina dificultat podria aparèixer:** La complexitat tècnica per unificar els diferents formats de dades entre operadors i la lentitud burocràtica a l'hora de signar convenis que garanteixin el compliment estrictament legal de la privacitat i la seguretat de les dades dels usuaris.
 
-**6. Com es podria iniciar la col·laboració:** Aprofitant que l'Ajuntament és qui impulsa i finança inicialment el projecte, convocant una mesa tècnica de mobilitat amb els responsables dels operadors de transport per signar un conveni marc de cessió de dades obertes (Open Data) i d'interoperabilitat.
+**6. Com es podria iniciar la col·laboració:** Aprofitant que l'Ajuntament és qui impulsa i finança inicialment el projecte, convocant una mesa tècnica de mobilitat amb els responsables dels operadors de transport per signar un conveni marc de cessió de dades obertes.
 
 ### Aliança 2: Integració cartogràfica i mobilitat compartida (intermodalitat)
-**1. Els grups que hi participarien:** MUV — Mobility Urban Values, empreses d'aplicacions de mapes (com Google Maps o OpenStreetMap) i aplicacions de transport / mobilitat compartida (com Uber, serveis de carsharing, patinets o bicicletes compartides).
+**1. Els grups que hi participarien:** Nosaltres l'equip fundador, MUV — Mobility Urban Values, empreses d'aplicacions de mapes (com Google Maps o OpenStreetMap) i aplicacions de transport / mobilitat compartida (com Uber, serveis de carsharing, patinets o bicicletes compartides).
 
 **2. L'objectiu de la col·laboració:** Millorar la precisió cartogràfica de les rutes a peu i en bicicleta, i oferir alternatives combinades (intermodals) per als trajectes on el transport públic tradicional no arriba eficientment, reduint així l'ús del vehicle privat individual.
 
 **3. Què aportaria cada participant:**
 
-- MUV — Mobility Urban Values: Una base d'usuaris locals interessats en la mobilitat sostenible i dades agregades sobre els punts d'origen i destí més freqüents a la ciutat.
+- Nosaltres l'equip fundador: La creació de l'App Web. Una base d'usuaris locals interessats en la mobilitat sostenible i dades agregades sobre els punts d'origen i destí més freqüents a la ciutat
+  
+- MUV — Mobility Urban Values: Van desenvolupar una App similar a la que volem nosaltres. Ens poden ayudar en el desenvolupament de la nostra i ens podem unir per fer entre els dos una App millor.
 
 - Empreses d'aplicacions de mapes: La infraestructura cartogràfica base, la geolocalització precisa, la detecció del trànsit en temps real i la identificació de vies segures (carrils bici, zones de vianants).
 
@@ -108,7 +110,7 @@ Hem creat un document de Drive on entre tots ens hem plantejat les preguntes i h
 
 **5. Quina dificultat podria aparèixer:** Un possible conflicte d'interessos amb la filosofia sostenible del projecte si els serveis d'aplicacions com Uber promouen trajectes individuals en cotxe amb conductor en lloc de prioritzar els desplaçaments a peu, en bicicleta o en transport col·lectiu. També hi hauria costos associats a l'ús d'APIs de mapes comercials.
 
-**6. Com es podria iniciar la col·laboració:** Mitjançant l'adhesió als programes per a desenvolupadors (APIs) de les plataformes de mapes i establint un acord pilot amb els departaments de sostenibilitat de les aplicacions de transport perquè només s'integrin dins de MUV — Mobility Urban Values les seves opcions de baixes emissions (vehicles elèctrics, trajectes compartits o micromobilitat).
+**6. Com es podria iniciar la col·laboració:** Mitjançant l'adhesió als programes per a desenvolupadors (APIs) de les plataformes de mapes i establint un acord amb els departaments de sostenibilitat. MUV — Mobility Urban Values com té un propòsit/objectiu similar al nostre ens podríem posar d'acord a desenvolupar conjuntament l'aplicació o que ens ajudi, així expandint aquesta solució sostenible a més llocs.
 
 ## 7. Fonts:
 - https://cordis.europa.eu/project/id/723521 (MUV — Mobility Urban Values existeix en la vida real,aquesta es la font per comprovar-ho.)
