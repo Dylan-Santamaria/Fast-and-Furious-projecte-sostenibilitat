@@ -32,8 +32,25 @@ Sí, hi ha aspectes que queden fora d'aquests tres indicadors:
 Sí. En cas de no assolir els objectius fixats (per exemple, quedar-nos per sota del 60 % de trajectes sostenibles o dels 1.500 kg de $CO_2$ estalviats), els resultats es comunicaran de manera totalment transparent, detallant les causes reals (com limitacions en la mostra d'usuaris durant la fase pilot o incidències tècniques) i plantejant les accions correctores necessàries per a la següent versió.
 
 ## 4. Model breu de comunicació dels resultats.
+### Quins indicadors publicaríeu.
+El percentatge de trajectes sostenibles realitzats, el nombre d'operadors de transport i comerços locals integrats, el total de quilograms de $CO_2$ evitats, i les estadístiques generals anonimitzades sobre les rutes i zones més transitades.
+### Amb quina periodicitat comunicaríeu les dades.
+Cada tres mesos (trimestralment).
+### A qui informaríeu: persones usuàries, centre, administració, entitats col·laboradores o altres grups d’interès.
+A les persones usuàries de l'aplicació, a l'administració pública (Ajuntament de Barcelona, aportant-los dades agregades i mapes de calor anonimitzats perquè puguin millorar la xarxa de transport i els carrils bici) i a les entitats col·laboradores (operadors de transport i comerços locals adherits).
+### Com explicaríeu els resultats que no haguessin assolit l’objectiu.
+Després de tres mesos de prova, el percentatge de trajectes sostenibles realitzats ha passat de [valor inicial] a [valor final], el nombre d'acords amb operadors i comerços ha passat de [valor inicial] a [valor final], i els quilograms de $CO_2$ evitats han passat de [valor inicial] a [valor final]. Això representa una variació del [percentatge]. Les dades s’han obtingut mitjançant [registre anonimitzat de l'app i factors d'emissió del MITECO]. El resultat s’ha de valorar tenint en compte [limitació, ex.: mostra reduïda d'usuaris inicials]. En cas de no assolir l'objectiu, s'explicarà que la desviació es deu a [causa real] i s'aplicarà [millora] en la següent fase.
+### Qui seria responsable de comprovar que les dades publicades són correctes.
+L'equip desenvolupador de l'aplicació (per revisar i filtrar la base de dades interna) i l'Ajuntament de Barcelona o una entitat ambiental col·laboradora (per validar els càlculs d'emissions de $CO_2$).
 
 ## 5. Taula sobre GRI, ESRS, ISO 14001 i ISO 26000.
+
+| Referència | S’aplicaria directament al nostre projecte? | Ens pot servir d’orientació? Com? | Justificació |
+| --- | --- | --- | --- |
+| **GRI**  | Encara no ho podem determinar | Sí, ens ajuda a saber com hem de calcular i explicar d'una manera clara i transparent les dades d'emissions que estalviem amb l'app. | Som una empresa nova i petita de mobilitat, per la qual cosa no estem obligats a publicar grans memòries corporatives tan complexes. |
+| **ESRS** | No | Sí, ens serveix per tenir en compte tant el benefici directe que aportem a la ciutat com els possibles riscos de privacitat o normatives. | Són normes pensades exclusivament per a grans empreses que cotitzen a la borsa, no per a una aplicació de nova creació. |
+| **ISO 14001** | Encara no ho podem determinar | Sí, ens guia per aplicar el mètode de millorar constantment (planificar, provar, revisar i corregir) en tot el que afecta el medi ambient. | L'empresa tot just comença i no té la mida ni el pressupost necessari per passar per una auditoria i aconseguir aquesta certificació oficial. |
+| **ISO 26000** | No | Sí, ens dóna pautes molt útils sobre com tractar amb responsabilitat les dades personals (RGPD), ser transparents amb l'Ajuntament i cuidar els usuaris. | És una guia de bones pràctiques que no dona dret a cap certificat oficial, tot i que ens serveix com a codi de conducta intern per al nostre negoci. |
 
 ## 6. Fonts consultades.
 - https://www.globalreporting.org/standards/
