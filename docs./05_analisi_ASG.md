@@ -30,28 +30,28 @@
 
 ## 4. Justificació de la probabilitat i de l’impacte.
 ### 1. Reducció d'emissions de $CO_2$ (Oportunitat):
-- Freqüència: Freqüent. Cada trajecte sostenible registrat evita directament emissions respecte al cotxe privat.
-- Impacte: Major. Contribueix directament als objectius climàtics municipals i a la salut respiratòria de tota la població.
+- **Freqüència:** Freqüent. Cada trajecte sostenible registrat evita directament emissions respecte al cotxe privat.
+- **Impacte:** Major. Contribueix directament als objectius climàtics municipals i a la salut respiratòria de tota la població.
 
 ### 2. Consum energètic dels servidors i GPS (Risc):
-- Freqüència: Probable. El rastreig en segon pla funciona de manera contínua mentre l'usuari es mou.
-- Impacte: Menor. L'impacte ambiental dels servidors és molt inferior a l'estalvi generat per la reducció del trànsit i es pot corregir optimitzant el codi.
+- **Freqüència:** Probable. El rastreig en segon pla funciona de manera contínua mentre l'usuari es mou.
+- **Impacte:** Menor. L'impacte ambiental dels servidors és molt inferior a l'estalvi generat per la reducció del trànsit i es pot corregir optimitzant el codi.
 
 ### 3. Bretxa digital i falta d'accessibilitat (Risc):
-- Freqüència: Freqüent. L'enunciat confirma que la primera versió no incorpora opcions d'accessibilitat i que hi ha ciutadans sense accés tecnològic adequat.
-- Impacte: Moderat. Limita l'equitat social del projecte, tot i que es pot gestionar mitjançant actualitzacions i alternatives físiques.
+- **Freqüència:** Freqüent. L'enunciat confirma que la primera versió no incorpora opcions d'accessibilitat i que hi ha ciutadans sense accés tecnològic adequat.
+- **Impacte:** Moderat. Limita l'equitat social del projecte, tot i que es pot gestionar mitjançant actualitzacions i alternatives físiques.
 
 ### 4. Impuls al comerç local i salut pública (Oportunitat):
-- Freqüència: Probable. El sistema de gamificació i descomptes incentiva el consum regular als establiments adherits.
-- Impacte: Moderat. Aporta beneficis econòmics i de benestar importants als barris participants.
+- **Freqüència:** Probable. El sistema de gamificació i descomptes incentiva el consum regular als establiments adherits.
+- **Impacte:** Moderat. Aporta beneficis econòmics i de benestar importants als barris participants.
 
 ### 5. Privacitat i protecció de dades (Risc / Oportunitat):
-- Freqüència: Ocasional. Un ciberatac o un mal ús comercial no passa cada dia, però és una amenaça real en aplicacions de geolocalització.
-- Impacte: Catastròfic. Una filtració de dades d'ubicació afectaria milers de ciutadans, comportaria sancions legals greus (RGPD) i provocaria l'abandonament immediat de l'app.
+- **Freqüència:** Ocasional. Un ciberatac o un mal ús comercial no passa cada dia, però és una amenaça real en aplicacions de geolocalització.
+- **Impacte:** Catastròfic. Una filtració de dades d'ubicació afectaria milers de ciutadans, comportaria sancions legals greus (RGPD) i provocaria l'abandonament immediat de l'app.
 
 ### 6. Transparència en els càlculs i responsabilitat legal (Risc):
-- Freqüència: Possible. És probable que l'algoritme recomani alguna via en obres o poc il·luminada si no s'actualitza sovint, o que es qüestionin les xifres d'emissions.
-- Impacte: Major. Pot provocar accidents de trànsit als usuaris (ciclistes o vianants) i pèrdua de confiança institucional.
+- **Freqüència:** Possible. És probable que l'algoritme recomani alguna via en obres o poc il·luminada si no s'actualitza sovint, o que es qüestionin les xifres d'emissions.
+- **Impacte:** Major. Pot provocar accidents de trànsit als usuaris (ciclistes o vianants) i pèrdua de confiança institucional.
 
 ## 5. Selecció dels riscos i les oportunitats prioritaris amb les mesures proposades.
 ### Risc prioritari seleccionat: Vulneració de la privacitat i filtració de dades d'ubicació (Governança)
