@@ -72,12 +72,9 @@ Amb aquests recursos podríem comprovar si MouBcn és útil, accessible i viable
 - [ODS 13 — Nacions Unides](https://www.un.org/sustainabledevelopment/es/climate-change-2/)
 - [Factors i calculadores d’emissions — MITECO](https://www.miteco.gob.es/es/cambio-climatico/temas/mitigacion-politicas-y-medidas/calculadoras.html)
 
-Les imatges i esquemes del vídeo seran propis. Si s’hi incorporen imatges o dades externes, se n’indicarà la font als crèdits. Les dades d’emissions es presentaran com a estimacions i no com a resultats mesurats del pilot.
 
 ### Enllaç a la presentació
 
-**Vídeo:** pendent de gravació i de pujada a Moodle.
+**Vídeo:** 
 
-**Enllaç extern de visualització:** pendent; només s’afegirà si es publica en una plataforma amb accés autoritzat.
-
-Abans del lliurament, es comprovaran la durada de 3 a 5 minuts, la claredat del so i dels textos, els subtítols o textos de suport, els crèdits de les fonts i que totes les persones identificables hagin autoritzat la seva aparició. El vídeo s’ha de pujar a Moodle abans de la presentació.
+**Enllaç extern de visualització:** 
