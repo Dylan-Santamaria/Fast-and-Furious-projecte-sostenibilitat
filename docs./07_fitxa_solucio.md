@@ -55,19 +55,19 @@ La persona usuària introdueix l’origen i la destinació (o, si ho vol, compar
 
 ### 1. Entitat que podria donar suport
 
-L’entitat principal a qui presentaríem la proposta és l’**Ajuntament de Barcelona**, perquè treballa en la mobilitat urbana i podria tenir interès en provar mesures que facilitin alternatives al vehicle privat. També caldria coordinar-se amb els operadors de transport i, si escau, amb altres autoritats competents. No pressuposem que l’Ajuntament hagi acceptat donar suport al projecte.
+L’entitat principal a qui presentaríem la proposta és l’**Ajuntament de Barcelona**, perquè treballa en la mobilitat urbana i podria tenir interès en provar mesures que facilitin alternatives al vehicle privat. També caldria coordinar-se amb els operadors de transport i, si escau, amb altres autoritats competents.
 
 ### 2. Suport que demanaríem i justificació responsable
 
-Demanaríem suport per a una prova pilot de tres mesos: assessorament tècnic, accés a dades obertes de transport i mobilitat, ajuda per contactar amb dos operadors i comerços locals, difusió entre possibles participants i, si és possible, suport per cobrir allotjament web i desenvolupament. També consultaríem si es pot oferir una alternativa física per a persones que no utilitzen telèfon intel·ligent.
+Demanaríem suport per a una prova pilot de tres mesos: assessorament tècnic, accés a dades obertes de transport i mobilitat, ajuda per contactar amb operadors i comerços locals, difusió entre possibles participants i, si és possible, suport per cobrir allotjament web i desenvolupament.
 
-Això es podria considerar suport socialment responsable perquè es destinaria a una prova acotada, amb objectius mesurables, seguiment transparent i salvaguardes de privacitat i accessibilitat. Abans d’ampliar el projecte, l’entitat podria revisar els resultats, els costos i els efectes no desitjats. No es demana una inversió basada en resultats que encara no s’han obtingut.
+Això es podria considerar suport socialment responsable perquè es destinaria a una prova acotada, amb objectius mesurables, seguiment transparent i salvaguardes de privacitat i accessibilitat. Abans d’ampliar el projecte, l’entitat podria revisar els resultats, els costos i els efectes no desitjats.
 
 ### 3. Evidències que presentaríem
 
-- **Repte i treball previ:** el projecte ha identificat l’excés de gasos del transport individual a Barcelona com a repte i n’ha descrit causes, impactes i grups afectats ([repte i ODS](02_repte_i_ODS.md), [causes i impactes](03_causes_i_impactes.md) i [grups d’interès](04_grups_interes.md)).
-- **Fonts consultades:** informació sobre qualitat de l’aire de la Generalitat de Catalunya, transport i mobilitat de l’Agència Europea de Medi Ambient, efectes de la contaminació de l’aire en la salut segons l’OMS, i factors d’emissió i calculadores del MITECO. Aquestes fonts contextualitzen el problema; no demostren per si soles l’impacte de l’aplicació a Barcelona.
-- **Comprovació del pilot:** presentaríem la línia base i l’evolució dels tres indicadors acordats: percentatge de trajectes sostenibles, nombre d’operadors i comerços adherits, i quilograms de CO₂ estimats com a evitats ([indicadors](06_indicadors.md)). Els càlculs d’emissions s’identificarien com a estimacions i se n’explicaria el mètode.
+- **Repte i treball previ:** El projecte ha identificat l’excés de gasos del transport individual a Barcelona com a repte i n’ha descrit causes, impactes i grups afectats ([repte i ODS](02_repte_i_ODS.md), [causes i impactes](03_causes_i_impactes.md) i [grups d’interès](04_grups_interes.md)).
+- **Fonts consultades:** Informació sobre qualitat de l’aire de la Generalitat de Catalunya, transport i mobilitat de l’Agència Europea de Medi Ambient, efectes de la contaminació de l’aire en la salut segons l’OMS, i factors d’emissió i calculadores del MITECO. Aquestes fonts contextualitzen el problema; no demostren per si soles l’impacte de l’aplicació a Barcelona.
+- **Comprovació del pilot:** Presentaríem la línia base i l’evolució dels tres indicadors acordats: percentatge de trajectes sostenibles, nombre d’operadors i comerços adherits, i quilograms de CO₂ estimats com a evitats ([indicadors](06_indicadors.md)). Els càlculs d’emissions s’identificarien com a estimacions i se n’explicaria el mètode.
 
 Fonts:
 - [Generalitat de Catalunya: qualitat de l’aire](https://mediambient.gencat.cat/ca/05_ambits_dactuacio/atmosfera/qualitat_de_laire/)
@@ -78,7 +78,7 @@ Fonts:
 
 ### 4. Riscos, costos i limitacions
 
-- Les dades de rutes, horaris o accessibilitat poden ser incompletes o quedar desactualitzades; per això les recomanacions dependran de la cobertura i actualització de les fonts i permetran comunicar incidències.
+- Les dades de rutes, horaris o accessibilitat poden ser incompletes o quedar desactualitzades. Per això les recomanacions dependran de la cobertura i actualització de les fonts i permetran comunicar incidències.
 - La localització i els hàbits de mobilitat són dades sensibles. La ubicació serà opcional, es recolliran només les dades necessàries, es publicaran resultats agregats i s’esborraran les dades brutes de trajectes en un màxim de 30 dies.
 - El càlcul de CO₂ serà una estimació basada en distàncies i factors d’emissió, no una mesura directa de la qualitat de l’aire ni una prova que cada quilogram s’hagi evitat realment.
 - El desenvolupament, l’allotjament, el manteniment, l’accessibilitat i les possibles API de pagament tenen costos que encara no s’han pressupostat. La participació d’usuaris, operadors i comerços tampoc no està garantida; si és baixa, els objectius de la prova pilot podrien no assolir-se.
@@ -86,7 +86,7 @@ Fonts:
 
 ### 5. Com comprovaríem la prova pilot
 
-La prova duraria **tres mesos**. Abans de començar, es recolliria una línia base mitjançant una enquesta voluntària sobre hàbits de mobilitat; els acords actius i els quilograms de CO₂ estimats evitats començarien a zero. Es revisaria mensualment l’evolució i al final es compararia amb els objectius provisionals:
+La prova duraria **tres mesos**. Abans de començar, es recolliria una línia base mitjançant una enquesta voluntària sobre hàbits de mobilitat, els acords actius i els quilograms de CO₂ estimats evitats començarien a zero. Es revisaria mensualment l’evolució i al final es compararia amb els objectius provisionals:
 
 | Indicador principal | Objectiu provisional al cap de tres mesos | Com es comprovaria |
 | --- | --- | --- |
