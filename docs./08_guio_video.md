@@ -9,11 +9,13 @@
 | --- | --- | --- |
 | 0:00–0:30 | Presentació del problema: excés de gasos del transport individual a Barcelona i efectes sobre la qualitat de l’aire i la salut. | Dylan |
 | 0:30–1:05 | Persones afectades, causes i conseqüències principals. | Gael |
-| 1:05–2:15 | Solució proposada i funcionament de l’aplicació web MouBcn. | Jose |
-| 2:15–2:55 | ODS relacionats i beneficis esperats. | Brais |
-| 2:55–3:35 | Risc i limitació: privacitat de la ubicació, qualitat de les dades i caràcter estimat dels càlculs d’emissions. | Dylan |
-| 3:35–4:05 | Com es mesuraria la prova pilot de tres mesos i quins objectius provisionals s’han fixat. | Gael |
-| 4:05–4:30 | Suport necessari, proposta de prova pilot i tancament. | Jose i Brais |
+| 1:05–2:00 | Funcionalitats principals: planificar rutes sostenibles i consultar l’estimació d’emissions. | Jose |
+| 2:00–2:25 | Explicació dels comerços adherits i dels punts o descomptes que es podrien oferir si s’arriba a acords. | Brais |
+| 2:25–3:05 | ODS relacionats i beneficis esperats. | Brais |
+| 3:05–3:45 | Risc i limitació: privacitat de la ubicació, qualitat de les dades i caràcter estimat dels càlculs d’emissions. | Dylan |
+| 3:45–4:15 | Com es mesuraria la prova pilot de tres mesos i quins objectius provisionals s’han fixat. | Gael |
+| 4:15–4:30 | Suport necessari i proposta de prova pilot. | Jose |
+| 4:30–4:40 | Tancament. | Dylan |
 
 ### Guió oral
 
@@ -23,32 +25,34 @@ Hola, som l’equip Fast and Furious i presentem MouBcn, una proposta d’aplica
 **Gael (0:30–1:05):**
 El problema està relacionat amb l’ús freqüent del cotxe i la moto particulars i amb el fet que algunes persones fan poc ús de la bicicleta, els desplaçaments a peu o el transport públic. La contaminació afecta les persones que viuen, treballen o es mouen per la ciutat, encara que no utilitzin un vehicle privat. També pot contribuir als efectes ambientals associats a les emissions com l'efecte hivernacle.
 
-**Jose (1:05–2:15):**
-MouBcn ajudaria la persona usuària a introduir l’origen i la destinació i a consultar opcions a peu, en bicicleta i en transport públic, segons les dades disponibles. També podria mostrar una estimació de les emissions de CO₂ comparada amb un trajecte equivalent en cotxe, la App mostra els factors utilitzats. La ubicació seria opcional i es podria introduir el trajecte manualment. En una primera versió ens centraríem en les rutes, la informació útil i la privacitat. Les recompenses en comerços locals només es provarien si s’aconsegueixen acords; no afirmem que ja hi hagi comerços adherits.
+**Jose (1:05–2:00):**
+Amb MouBcn, la persona usuària introdueix origen i destinació i consulta opcions a peu, en bicicleta i en transport públic, segons les dades disponibles. L’aplicació també podria comparar les emissions estimades d’una ruta sostenible amb les d’un trajecte equivalent en cotxe, explicant els factors utilitzats. La ubicació seria opcional i es podria escriure el trajecte manualment. En la primera versió prioritzaríem les rutes, la informació útil i la privacitat.
+**Brais (2:00–2:25):**
+Quan parlem de comerços adherits, ens referim a botigues locals que podrien participar voluntàriament en el programa. Si arribem a acords, les persones usuàries podrien acumular punts fent trajectes sostenibles i bescanviar-los per descomptes o altres beneficis.
 
-**Brais (2:15–2:55):**
+**Brais (2:25–3:05):**
 El projecte es relaciona amb l’ODS 11, especialment la meta 11.6 sobre l’impacte ambiental de les ciutats i la qualitat de l’aire, i amb l’ODS 13, meta 13.3, sobre sensibilització i acció climàtica. Esperem que l’aplicació ajudi algunes persones a triar opcions de mobilitat més sostenibles. És un benefici esperat que caldria comprovar amb una prova pilot, no un resultat que ja hàgim mesurat.
 
-**Dylan (2:55–3:35):**
+**Dylan (3:05–3:45):**
 Un risc important és la privacitat: les dades de localització poden revelar rutines personals. Per reduir-lo, proposarem que compartir la ubicació sigui opcional, recollir només les dades necessàries, publicar resultats agregats i esborrar les dades brutes dels trajectes en un màxim de 30 dies. Una altra limitació és que els horaris i les dades d’accessibilitat poden estar incomplets o desactualitzats. A més, l’estalvi de CO₂ serà una estimació, no una mesura directa de la qualitat de l’aire.
 
-**Gael (3:35–4:05):**
+**Gael (3:45–4:15):**
 Proposem avaluar una prova pilot de tres mesos. Els objectius inicials són que almenys el 60 % dels trajectes registrats siguin sostenibles, integrar dos operadors de transport i quinze comerços locals, i estimar 1.500 quilograms de CO₂ evitats. Són objectius provisionals de la nostra fitxa d’indicadors, no resultats assolits. Recolliríem una línia base i revisaríem les dades de manera agregada.
 
-**Jose (4:05–4:20):**
+**Jose (4:15–4:30):**
 Per fer la prova necessitaríem assessorament, dades obertes de transport i suport per contactar amb l’Ajuntament, els operadors i els comerços. També caldria cobrir, si és possible, els costos bàsics de desenvolupament i allotjament.
 
-**Brais (4:20–4:30):**
+**Dylan (4:30–4:40):**
 Amb aquests recursos podríem comprovar si MouBcn és útil, accessible i viable abans de plantejar-ne una ampliació. Gràcies per escoltar la nostra proposta.
 
 ### Repartiment de tasques
 
 | Membre | Aportació al vídeo i responsabilitats |
 | --- | --- |
-| Dylan Santamaria Morales | Redacta el guio del video. Prepara els recursos visuals i del video en general i l’edició d'aquest. Grava la part de la presentació del problema, el tema dels comerços i les mesures de privacitat. |
+| Dylan Santamaria Morales | Redacta el guio del video. Prepara els recursos visuals i del video en general i l’edició d'aquest. Grava la part de la presentació del problema, les mesures de privacitat i el tancament. |
 | Gael Garvin Giraldez | Comprova les fonts i l'informació. Grava la part de l’explicació del problema i l’avaluació de la prova pilot. |
 | Jose Luque Mendoza | Revisa el guió i els textos en pantalla. Grava la part de l’explicació del funcionament i del suport necessari. |
-| Brais | Participa en la gravació i en la preparació del video. Grava la part de càmera en la presentació dels ODS i el tancament. |
+| Brais | Participa en la gravació i en la preparació del video. Grava la part de càmera en la presentació dels ODS i l’explicació dels comerços adherits. |
 
 ### Fonts i crèdits
 
