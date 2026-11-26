@@ -3,8 +3,6 @@
 
 ## Proposta de vídeo: MouBcn
 
-**Durada prevista:** 4 minuts i 30 segons (dins del límit de 3 a 5 minuts).
-
 ### Escaleta
 
 | Temps | Contingut | Imatges o recursos previstos | Intervenció |
@@ -47,10 +45,10 @@ Amb aquests recursos podríem comprovar si MouBcn és útil, accessible i viable
 
 | Membre | Aportació al vídeo i responsabilitats |
 | --- | --- |
-| Dylan Santamaria Morales | Coordinació tècnica i audiovisual; prepara els recursos visuals i l’edició. Intervé davant la càmera en la presentació del problema i les mesures de privacitat. |
-| Gael Garvin Giraldez | Comprova les fonts i els indicadors. Intervé davant la càmera en l’explicació del problema i l’avaluació de la prova pilot. |
-| Jose Luque Mendoza | Redacta i revisa el guió i els textos en pantalla. Intervé davant la càmera en l’explicació del funcionament i del suport necessari. |
-| Brais | Participa en la gravació i en la preparació dels recursos visuals; intervé davant la càmera en la presentació dels ODS i el tancament. |
+| Dylan Santamaria Morales | Redacta el guio del video. Prepara els recursos visuals i del video en general i l’edició d'aquest. Grava la part de la presentació del problema, el tema dels comerços i les mesures de privacitat. |
+| Gael Garvin Giraldez | Comprova les fonts i l'informació. Grava la part de l’explicació del problema i l’avaluació de la prova pilot. |
+| Jose Luque Mendoza | Revisa el guió i els textos en pantalla. Grava la part de l’explicació del funcionament i del suport necessari. |
+| Brais | Participa en la gravació i en la preparació del video. Grava la part de càmera en la presentació dels ODS i el tancament. |
 
 Les tasques i intervencions es poden ajustar entre l’equip abans de gravar, mantenint una aportació identificable i una intervenció oral de cada membre.
 
