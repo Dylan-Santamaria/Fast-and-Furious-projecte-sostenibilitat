@@ -1,4 +1,3 @@
-
 # Activitat 1.8. Guió del vídeo
 
 ## Proposta de vídeo: MouBcn
@@ -13,8 +12,10 @@
 | 2:00–2:25 | Comerços adherits i recompenses possibles. | Brais |
 | 2:25–3:05 | Relació amb els ODS i beneficis esperats. | Brais |
 | 3:05–3:50 | Possibles col·laboracions amb l’Ajuntament i els operadors de transport. | Jose |
-| 3:50–4:25 | Eines cartogràfiques, MUV i criteris per a possibles serveis de mobilitat compartida. | Brais |
-| 4:25–5:25 | Riscos principals i mesures per reduir-los. | Dylan |
+| 3:50–4:10 | Eines cartogràfiques, MUV i comparació d’opcions. | Brais |
+| 4:10–4:25 | Criteris per a possibles serveis de mobilitat compartida. | Jose |
+| 4:25–4:55 | Riscos principals: privacitat i informació de rutes. | Dylan |
+| 4:55–5:25 | Riscos d’exclusió, consum d’energia i costos. | Gael |
 | 5:25–5:55 | Avaluació de la prova pilot i objectius provisionals. | Gael |
 | 5:55–6:05 | Tancament. | Dylan |
 
@@ -38,11 +39,17 @@ El projecte es relaciona amb l’ODS 11, meta 11.6, sobre l’impacte ambiental 
 **Jose (3:05–3:50):**
 Per provar l’aplicació, podríem demanar a l’Ajuntament de Barcelona assessorament, difusió i accés a dades obertes de mobilitat. Els operadors de transport podrien facilitar horaris, freqüències i avisos d’incidències. També necessitaríem suport per cobrir, si és possible, els costos bàsics de desenvolupament i allotjament. Són col·laboracions proposades; encara no tenim cap acord confirmat.
 
-**Brais (3:50–4:25):**
-També podríem explorar eines cartogràfiques com Google Maps o OpenStreetMap i contactar amb MUV, que ha treballat en una aplicació de mobilitat sostenible. Les API comercials poden tenir costos, així que caldria comparar-les amb opcions obertes. Si estudiéssim serveis com Uber, prioritzaríem els trajectes compartits o de connexió amb el transport públic, perquè promoure viatges individuals en cotxe podria contradir l’objectiu del projecte. No tenim aquestes col·laboracions tancades.
+**Brais (3:50–4:10):**
+També podríem explorar eines cartogràfiques com Google Maps o OpenStreetMap i contactar amb MUV, que ha treballat en una aplicació de mobilitat sostenible. Les API comercials poden tenir costos, així que caldria comparar-les amb opcions obertes.
 
-**Dylan (4:25–5:25):**
-La ubicació pot revelar rutines personals. Per protegir la privacitat, la compartiríem només amb permís, recolliríem les dades necessàries, publicaríem resultats agregats i esborraríem les dades brutes dels trajectes en un màxim de 30 dies. També hi ha el risc que horaris, obres o informació sobre carrils bici estiguin desactualitzats i que una ruta sigui poc pràctica o insegura; per això caldria permetre avisar d’incidències i no garantir que una ruta sigui sempre segura. Les persones sense telèfon intel·ligent o amb necessitats d’accessibilitat podrien quedar excloses. Finalment, el GPS continu, els servidors i les API poden consumir energia i generar costos; començaríem amb una prova limitada, evitaríem el seguiment continu i valoraríem alternatives accessibles.
+**Jose (4:10–4:25):**
+Si estudiéssim serveis com Uber, prioritzaríem els trajectes compartits o de connexió amb el transport públic, perquè promoure viatges individuals en cotxe podria contradir l’objectiu del projecte. No tenim aquestes col·laboracions tancades.
+
+**Dylan (4:25–4:55):**
+La ubicació pot revelar rutines personals. Per protegir la privacitat, la compartiríem només amb permís, recolliríem les dades necessàries, publicaríem resultats agregats i esborraríem les dades brutes dels trajectes en un màxim de 30 dies. També hi ha el risc que horaris, obres o informació sobre carrils bici estiguin desactualitzats i que una ruta sigui poc pràctica o insegura; per això caldria permetre avisar d’incidències i no garantir que una ruta sigui sempre segura.
+
+**Gael (4:55–5:25):**
+Les persones sense telèfon intel·ligent o amb necessitats d’accessibilitat podrien quedar excloses. Finalment, el GPS continu, els servidors i les API poden consumir energia i generar costos; començaríem amb una prova limitada, evitaríem el seguiment continu i valoraríem alternatives accessibles.
 
 **Gael (5:25–5:55):**
 Proposem una prova pilot de tres mesos. Els objectius inicials són que almenys el 60 % dels trajectes registrats siguin sostenibles, integrar dos operadors i quinze comerços locals, i estimar 1.500 quilograms de CO₂ evitats. Són objectius provisionals, no resultats assolits. Recolliríem una línia base i revisaríem les dades agregades.
@@ -54,10 +61,10 @@ Així podríem comprovar si MouBcn és útil i viable abans de plantejar-ne una 
 
 | Membre | Aportació al vídeo i responsabilitats |
 | --- | --- |
-| Dylan Santamaria Morales | Redacta el guió, prepara els recursos visuals i edita el vídeo. Intervé en la presentació del repte, els riscos i el tancament. |
-| Gael Garvin Giraldez | Comprova les fonts i els indicadors. Intervé en l’explicació del problema i l’avaluació de la prova pilot. |
-| Jose Luque Mendoza | Revisa els textos en pantalla. Intervé en el funcionament de l’aplicació i les possibles col·laboracions institucionals. |
-| Brais | Participa en la gravació. Intervé en l’explicació dels comerços, els ODS, la cartografia i les possibles aliances de mobilitat. |
+| Dylan Santamaria Morales | Redacta el guió, prepara els recursos visuals i edita el vídeo. Intervé en la presentació del repte, la primera part dels riscos i el tancament. |
+| Gael Garvin Giraldez | Comprova les fonts i els indicadors. Intervé en l’explicació del problema, la segona part dels riscos i l’avaluació de la prova pilot. |
+| Jose Luque Mendoza | Revisa els textos en pantalla. Intervé en el funcionament de l’aplicació, les possibles col·laboracions institucionals i els criteris per a serveis de mobilitat compartida. |
+| Brais | Participa en la gravació. Intervé en l’explicació dels comerços, els ODS i les eines cartogràfiques. |
 
 ### Fonts i crèdits
 
