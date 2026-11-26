@@ -63,7 +63,7 @@ Així podríem comprovar si MouBcn és útil i viable abans de plantejar-ne una 
 | --- | --- |
 | Dylan Santamaria Morales | Redacta el guió, prepara els recursos visuals i edita el vídeo. Intervé en la presentació del repte, la primera part dels riscos i el tancament. |
 | Gael Garvin Giraldez | Comprova les fonts i els indicadors. Intervé en l’explicació del problema, la segona part dels riscos i l’avaluació de la prova pilot. |
-| Jose Luque Mendoza | Revisa els textos en pantalla. Intervé en el funcionament de l’aplicació, les possibles col·laboracions institucionals i els criteris per a serveis de mobilitat compartida. |
+| Jose Luque Mendoza | Revisa els textos en pantalla. Intervé en el funcionament de l’aplicació, les possibles col·laboracions institucionals i el cas d'Apps com Uber. |
 | Brais | Participa en la gravació. Intervé en l’explicació dels comerços, els ODS i les eines cartogràfiques. |
 
 ### Fonts i crèdits
