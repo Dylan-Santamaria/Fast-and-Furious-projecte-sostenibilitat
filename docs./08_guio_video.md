@@ -78,3 +78,15 @@ Amb aquests recursos podríem comprovar si MouBcn és útil, accessible i viable
 **Vídeo:** 
 
 **Enllaç extern de visualització:** 
+### Fragments addicionals per incorporar abans del tancament
+
+Aquests fragments amplien la presentació amb possibles col·laboradors i riscos. Són material addicional: no substitueixen ni esborren cap part del guió anterior. Cal inserir-los abans de la intervenció de tancament de Dylan i ajustar-ne els temps durant la gravació. La durada final superarà els cinc minuts.
+
+**Jose — Possibles col·laboradors:**
+Per provar MouBcn, podríem demanar a l’Ajuntament de Barcelona assessorament, difusió i accés a dades obertes de mobilitat. Els operadors de transport públic podrien facilitar horaris, freqüències i avisos d’incidències perquè les alternatives siguin més útils. També parlaríem amb comerços locals sostenibles per valorar recompenses. Són col·laboracions que proposem; encara no tenim cap acord confirmat.
+
+**Brais — Cartografia, MUV i mobilitat compartida:**
+També podríem explorar eines cartogràfiques com Google Maps o OpenStreetMap i contactar amb MUV, que ha treballat en una aplicació de mobilitat sostenible. Les API comercials poden tenir costos i condicions d’ús, així que caldria comparar-les amb opcions de dades obertes. Si estudiéssim serveis com Uber o altres plataformes de mobilitat compartida, prioritzaríem les opcions col·lectives o de connexió amb el transport públic: promoure viatges individuals en cotxe podria anar en contra de l’objectiu de reduir el transport privat. Cap d’aquestes col·laboracions està tancada.
+
+**Dylan — Riscos addicionals i com els abordaríem:**
+A més de la privacitat i de les estimacions de CO₂, hi ha altres riscos. Si les dades de transport, obres o carrils bici no estan actualitzades, una ruta podria ser poc pràctica o insegura; per això caldria indicar quan una informació no està verificada, facilitar avisos d’incidències i no garantir que una ruta sigui sempre segura. Les persones sense telèfon intel·ligent, connexió estable o una interfície accessible també podrien quedar excloses. Podríem estudiar una alternativa física amb l’Ajuntament, però dependria d’un acord i de recursos. Finalment, el manteniment, l’allotjament i les API poden generar costos, i el GPS continu augmentaria el consum de bateria i dades. Per reduir aquests impactes, començaríem amb una prova limitada, evitaríem el seguiment continu i revisaríem els costos, l’accessibilitat i la qualitat de les dades abans d’ampliar el projecte.
