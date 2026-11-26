@@ -27,6 +27,7 @@ El problema està relacionat amb l’ús freqüent del cotxe i la moto particula
 
 **Jose (1:05–2:00):**
 Amb MouBcn, la persona usuària introdueix origen i destinació i consulta opcions a peu, en bicicleta i en transport públic, segons les dades disponibles. L’aplicació també podria comparar les emissions estimades d’una ruta sostenible amb les d’un trajecte equivalent en cotxe, explicant els factors utilitzats. La ubicació seria opcional i es podria escriure el trajecte manualment. En la primera versió prioritzaríem les rutes, la informació útil i la privacitat.
+
 **Brais (2:00–2:25):**
 Quan parlem de comerços adherits, ens referim a botigues locals que podrien participar voluntàriament en el programa. Si arribem a acords, les persones usuàries podrien acumular punts fent trajectes sostenibles i bescanviar-los per descomptes o altres beneficis.
 
