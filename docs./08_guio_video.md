@@ -28,31 +28,31 @@ Hola, som l’equip Fast and Furious i presentem MouBcn, una proposta d’aplica
 L’ús freqüent del cotxe i la moto, juntament amb el poc ús d’algunes alternatives, contribueix a la contaminació de l’aire. Afecta les persones que viuen, treballen o es mouen per Barcelona, encara que no utilitzin vehicle privat, i té conseqüències per a la salut i el medi ambient.
 
 **Jose (1:05–2:00):**
-Amb MouBcn, la persona usuària introdueix l’origen i la destinació i consulta opcions a peu, en bicicleta i en transport públic, segons les dades disponibles. L’aplicació també podria comparar les emissions estimades d’una ruta sostenible amb les d’un trajecte equivalent en cotxe i explicar els factors utilitzats. Es podria introduir el trajecte manualment; compartir la ubicació seria opcional.
+Amb MouBcn, la persona usuària introdueix l’origen i la destinació i consulta opcions a peu, en bicicleta o en transport públic, segons les dades disponibles. L’aplicació també podria comparar les emissions estimades d’una ruta sostenible amb les d’un trajecte equivalent en cotxe i explicar els factors utilitzats. Es podria introduir el trajecte manualment o compartir la ubicació seria opcional.
 
 **Brais (2:00–2:25):**
-Una altra funcionalitat que proposem és col·laborar amb comerços adherits: botigues locals que podrien participar voluntàriament. Si s’arriba a acords, les persones usuàries podrien acumular punts fent trajectes sostenibles i bescanviar-los per descomptes o altres beneficis.
+Una altra funcionalitat que proposem és col·laborar amb comerços adherits, botigues locals que podrien participar voluntàriament. Si s’arriba a acords, les persones usuàries podrien acumular punts fent trajectes sostenibles i els podria canviar per descomptes o altres beneficis.
 
 **Brais (2:25–3:05):**
 El projecte es relaciona amb l’ODS 11, meta 11.6, sobre l’impacte ambiental de les ciutats i la qualitat de l’aire, i amb l’ODS 13, meta 13.3, sobre sensibilització i acció climàtica. Esperem que MouBcn faciliti alguns canvis de mobilitat, però aquest benefici s’hauria de comprovar amb una prova pilot.
 
 **Jose (3:05–3:50):**
-Per provar l’aplicació, podríem demanar a l’Ajuntament de Barcelona assessorament, difusió i accés a dades obertes de mobilitat. Els operadors de transport podrien facilitar horaris, freqüències i avisos d’incidències. També necessitaríem suport per cobrir, si és possible, els costos bàsics de desenvolupament i allotjament. Són col·laboracions proposades; encara no tenim cap acord confirmat.
+Per provar l’aplicació, podríem demanar a l’Ajuntament de Barcelona assessorament, difusió i accés a dades obertes de mobilitat. Els operadors de transport podrien facilitar horaris, freqüències i avisos d’incidències. També necessitaríem suport per cobrir, si és possible, els costos bàsics de desenvolupament i allotjament.
 
 **Brais (3:50–4:10):**
 També podríem explorar eines cartogràfiques com Google Maps o OpenStreetMap i contactar amb MUV, que ha treballat en una aplicació de mobilitat sostenible. Les API comercials poden tenir costos, així que caldria comparar-les amb opcions obertes.
 
 **Jose (4:10–4:25):**
-Si estudiéssim serveis com Uber, prioritzaríem els trajectes compartits o de connexió amb el transport públic, perquè promoure viatges individuals en cotxe podria contradir l’objectiu del projecte. No tenim aquestes col·laboracions tancades.
+Estem estudiant també serveis com Uber, prioritzaríem els trajectes compartits o de connexió amb el transport públic, perquè promoure viatges individuals en cotxe podria contradir l’objectiu del projecte.
 
 **Dylan (4:25–4:55):**
 La ubicació pot revelar rutines personals. Per protegir la privacitat, la compartiríem només amb permís, recolliríem les dades necessàries, publicaríem resultats agregats i esborraríem les dades brutes dels trajectes en un màxim de 30 dies. També hi ha el risc que horaris, obres o informació sobre carrils bici estiguin desactualitzats i que una ruta sigui poc pràctica o insegura; per això caldria permetre avisar d’incidències i no garantir que una ruta sigui sempre segura.
 
 **Gael (4:55–5:25):**
-Les persones sense telèfon intel·ligent o amb necessitats d’accessibilitat podrien quedar excloses. Finalment, el GPS continu, els servidors i les API poden consumir energia i generar costos; començaríem amb una prova limitada, evitaríem el seguiment continu i valoraríem alternatives accessibles.
+Les persones sense telèfon intel·ligent o amb necessitats d’accessibilitat podrien quedar excloses. Finalment, el GPS continu, els servidors i les API poden consumir energia i generar costos, per aixó començaríem amb una prova limitada, evitaríem el seguiment continu i valoraríem alternatives accessibles.
 
 **Gael (5:25–5:55):**
-Proposem una prova pilot de tres mesos. Els objectius inicials són que almenys el 60 % dels trajectes registrats siguin sostenibles, integrar dos operadors i quinze comerços locals, i estimar 1.500 quilograms de CO₂ evitats. Són objectius provisionals, no resultats assolits. Recolliríem una línia base i revisaríem les dades agregades.
+Proposem una prova pilot de tres mesos. Els objectius inicials són que almenys el 60 % dels trajectes registrats siguin sostenibles, integrar dos operadors i quinze comerços locals, i estimar 1.500 quilograms de CO₂ evitats. Són objectius provisionals, no resultats assolits.
 
 **Dylan (5:55–6:05):**
 Així podríem comprovar si MouBcn és útil i viable abans de plantejar-ne una ampliació. Gràcies per escoltar-nos.
