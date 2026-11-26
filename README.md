@@ -4,6 +4,7 @@
 - Dylan Santamaria Morales - Gestió tècnica i audiovisual: Organitza el repositori i els recursos digitals.
 - Gael Garvin Giraldez - Recerca: Comprova les fonts i recopila informació.
 - Jose Luque Mendoza - Documentació: Revisa que els documents estiguin complets i ben redactats.
+- Brais - A l'inici no estava, s'ha afegit quan estàvem en la tasca A1.8 per fer el vídeo.
 
 ## Descripció
 Som un equip de treball del projecte de Sostenibilitat Aplicada al Sistema Productiu. Durant el projecte identificarem un repte ambiental o social del nostre entorn i proposarem una solució tecnològica sostenible. Ens anomenem Fast and Furious.
