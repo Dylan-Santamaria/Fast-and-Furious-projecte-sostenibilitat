@@ -57,11 +57,13 @@ Amb aquests recursos podríem comprovar si MouBcn és útil, accessible i viable
 
 ### Fonts i crèdits
 
+- [01_necessitats.md](https://github.com/Dylan-Santamaria/Fast-and-Furious-projecte-sostenibilitat/blob/main/docs./01_necessitats.md)
 - [02_repte_i_ODS.md](https://github.com/Dylan-Santamaria/Fast-and-Furious-projecte-sostenibilitat/blob/main/docs./02_repte_i_ODS.md)
 - [03_causes_i_impactes.md](https://github.com/Dylan-Santamaria/Fast-and-Furious-projecte-sostenibilitat/blob/main/docs./03_causes_i_impactes.md)
 - [04_grups_interes.md](https://github.com/Dylan-Santamaria/Fast-and-Furious-projecte-sostenibilitat/blob/main/docs./04_grups_interes.md)
 - [05_analisi_ASG.md](https://github.com/Dylan-Santamaria/Fast-and-Furious-projecte-sostenibilitat/blob/main/docs./05_analisi_ASG.md)
 - [06_indicadors.md](https://github.com/Dylan-Santamaria/Fast-and-Furious-projecte-sostenibilitat/blob/main/docs./06_indicadors.md)
+- [07_fitxa_solucio.md](https://github.com/Dylan-Santamaria/Fast-and-Furious-projecte-sostenibilitat/blob/main/docs./07_fitxa_solucio.md)
 - [Qualitat de l’aire — Generalitat de Catalunya](https://mediambient.gencat.cat/ca/05_ambits_dactuacio/atmosfera/qualitat_de_laire/)
 - [Transport i mobilitat — Agència Europea de Medi Ambient](https://www.eea.europa.eu/en/topics/in-depth/transport-and-mobility)
 - [Qualitat de l’aire ambient i salut — OMS](https://www.who.int/es/news-room/fact-sheets/detail/ambient-(outdoor)-air-quality-and-health)
