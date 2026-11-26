@@ -57,6 +57,8 @@ Proposem una prova pilot de tres mesos. Els objectius inicials són que almenys 
 **Dylan (5:55–6:05):**
 Així podríem comprovar si MouBcn és útil i viable abans de plantejar-ne una ampliació. Gràcies per escoltar-nos.
 
+***- El que es diu en el vídeo no ha de ser exactament el mateix que en el que surt en el vídeo, cadascú s'expressa com millor li va. El guió és per tindre una referència del que s'ha de dir.***
+
 ### Repartiment de tasques
 
 | Membre | Aportació al vídeo i responsabilitats |
