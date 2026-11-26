@@ -50,8 +50,6 @@ Amb aquests recursos podríem comprovar si MouBcn és útil, accessible i viable
 | Jose Luque Mendoza | Revisa el guió i els textos en pantalla. Grava la part de l’explicació del funcionament i del suport necessari. |
 | Brais | Participa en la gravació i en la preparació del video. Grava la part de càmera en la presentació dels ODS i el tancament. |
 
-Les tasques i intervencions es poden ajustar entre l’equip abans de gravar, mantenint una aportació identificable i una intervenció oral de cada membre.
-
 ### Fonts i crèdits
 
 - [Fitxa del repte i ODS del projecte](https://github.com/Dylan-Santamaria/Fast-and-Furious-projecte-sostenibilitat/blob/main/docs./02_repte_i_ODS.md)
