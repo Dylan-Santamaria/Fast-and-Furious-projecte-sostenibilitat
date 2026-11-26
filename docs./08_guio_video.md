@@ -5,15 +5,15 @@
 
 ### Escaleta
 
-| Temps | Contingut | Imatges o recursos previstos | Intervenció |
-| --- | --- | --- | --- |
-| 0:00–0:30 | Presentació del problema: excés de gasos del transport individual a Barcelona i efectes sobre la qualitat de l’aire i la salut. | Títol del projecte; imatges pròpies d’un carrer amb trànsit o un esquema simple de trànsit i emissions. | Dylan |
-| 0:30–1:05 | Persones afectades, causes i conseqüències principals. | Esquema amb les causes identificades: ús del vehicle privat i ús reduït d’alternatives; conseqüències per a la ciutadania i el medi ambient. | Gael |
-| 1:05–2:15 | Solució proposada i funcionament de l’aplicació web MouBcn. | Dibuix o maqueta pròpia de la pantalla d’origen i destinació, les alternatives de ruta i la comparació estimada d’emissions. No presentar una maqueta com si fos una aplicació ja operativa. | Jose |
-| 2:15–2:55 | ODS relacionats i beneficis esperats. | ODS 11 i ODS 13; gràfic o icones pròpies que mostrin caminar, bicicleta i transport públic. | Brais |
-| 2:55–3:35 | Risc i limitació: privacitat de la ubicació, qualitat de les dades i caràcter estimat dels càlculs d’emissions. | Pantalla amb les mesures de privacitat i el text «estimació, no mesura directa de la qualitat de l’aire». | Dylan |
-| 3:35–4:05 | Com es mesuraria la prova pilot de tres mesos i quins objectius provisionals s’han fixat. | Taula breu amb els tres indicadors i els seus objectius. | Gael |
-| 4:05–4:30 | Suport necessari, proposta de prova pilot i tancament. | Crida a col·laborar; crèdits i fonts en pantalla. | Jose i Brais |
+| Temps | Contingut | Intervenció |
+| --- | --- | --- |
+| 0:00–0:30 | Presentació del problema: excés de gasos del transport individual a Barcelona i efectes sobre la qualitat de l’aire i la salut. | Dylan |
+| 0:30–1:05 | Persones afectades, causes i conseqüències principals. | Gael |
+| 1:05–2:15 | Solució proposada i funcionament de l’aplicació web MouBcn. | Jose |
+| 2:15–2:55 | ODS relacionats i beneficis esperats. | Brais |
+| 2:55–3:35 | Risc i limitació: privacitat de la ubicació, qualitat de les dades i caràcter estimat dels càlculs d’emissions. | Dylan |
+| 3:35–4:05 | Com es mesuraria la prova pilot de tres mesos i quins objectius provisionals s’han fixat. | Gael |
+| 4:05–4:30 | Suport necessari, proposta de prova pilot i tancament. | Jose i Brais |
 
 ### Guió oral
 
