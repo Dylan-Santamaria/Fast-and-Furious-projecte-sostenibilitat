@@ -29,10 +29,10 @@ El problema està relacionat amb l’ús freqüent del cotxe i la moto particula
 Amb MouBcn, la persona usuària introdueix origen i destinació i consulta opcions a peu, en bicicleta i en transport públic, segons les dades disponibles. L’aplicació també podria comparar les emissions estimades d’una ruta sostenible amb les d’un trajecte equivalent en cotxe, explicant els factors utilitzats. La ubicació seria opcional i es podria escriure el trajecte manualment. En la primera versió prioritzaríem les rutes, la informació útil i la privacitat.
 
 **Brais (2:00–2:25):**
-Quan parlem de comerços adherits, ens referim a botigues locals que podrien participar voluntàriament en el programa. Si arribem a acords, les persones usuàries podrien acumular punts fent trajectes sostenibles i bescanviar-los per descomptes o altres beneficis.
+Una de les funcionalitats que també volem implementar és la dels comerços adherits. Seran Botigues locals que podrien participar voluntàriament en el programa. Si arribem a acords, les persones usuàries podrien acumular punts fent trajectes sostenibles i les podran canviar per descomptes o altres beneficis.
 
 **Brais (2:25–3:05):**
-El projecte es relaciona amb l’ODS 11, especialment la meta 11.6 sobre l’impacte ambiental de les ciutats i la qualitat de l’aire, i amb l’ODS 13, meta 13.3, sobre sensibilització i acció climàtica. Esperem que l’aplicació ajudi algunes persones a triar opcions de mobilitat més sostenibles. És un benefici esperat que caldria comprovar amb una prova pilot, no un resultat que ja hàgim mesurat.
+El projecte es relaciona amb l’ODS 11, especialment la meta 11.6 sobre l’impacte ambiental de les ciutats i la qualitat de l’aire. I amb l’ODS 13, meta 13.3, sobre sensibilització i acció climàtica. Esperem que l’aplicació ajudi algunes persones a triar opcions de mobilitat més sostenibles. És un benefici esperat que caldria comprovar amb una prova pilot, no un resultat que ja hàgim mesurat.
 
 **Dylan (3:05–3:45):**
 Un risc important és la privacitat: les dades de localització poden revelar rutines personals. Per reduir-lo, proposarem que compartir la ubicació sigui opcional, recollir només les dades necessàries, publicar resultats agregats i esborrar les dades brutes dels trajectes en un màxim de 30 dies. Una altra limitació és que els horaris i les dades d’accessibilitat poden estar incomplets o desactualitzats. A més, l’estalvi de CO₂ serà una estimació, no una mesura directa de la qualitat de l’aire.
